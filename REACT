@@ -1,0 +1,63 @@
+A JavaScript Library for building user interfaces.
+built by facebook.
+
+competitors of the React framework includes:
+
+1. Angular
+2. Vue.js
+3. Ember.js
+4. Svelte
+5. Backbone.js
+
+Its all about components.
+Independence
+Reusability
+speed
+
+GOALS:
+
+THEORY:
+Understand the main building blocks and know where to find usefull info
+
+PRACTICE
+Apply the knowledge by building bunch of cool projects
+
+TUTORIAL
+Get familiar with all the major building blocks
+
+PROJECTS
+After each new topic build one or few cool projects.
+
+REDUX
+Learn the most popular state management library.
+
+Installing NodeJS
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+nvm install 20
+node -v
+npm -v
+
+create react app
+npx create-react-app my-app
+npx create-react-app@latest my-app tutorial
+
+npm start
+Starts the development server.
+
+npm run build
+Bundles the app into static files for production.
+
+npm test
+Starts the test runner.
+
+npm run eject
+Removes this tool and copies build dependencies, configuration files
+and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+cd my-app
+npm start
+
+Fundamentals
+npx create-react-app my-app-revision
